@@ -3,8 +3,43 @@
   <head>
     <title>Room 1</title>
     <meta charset="utf-8">
+    <style>
+      html, body {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+      }
+      .container {
+        height: 100%;
+        width: 100%;
+        overflow: hidden;
+      }
+      .video-container.video-container {
+          position: relative;
+          padding-bottom: min(56.25%, 60vh);
+          height: 0;
+      }
+      .video-container iframe {
+          position: absolute;
+          top: 0;
+          margin: 0 auto;
+          left: 0;
+          right: 0;
+          width: 100%;
+          height: 100%;
+      }
+      .chat {
+        height: 100%;
+        width: 100%;
+      }
+    </style>
   </head>
   <body>
-    <h1>Room 1</h1>
+    <div class="container">
+      <div class="video-container">
+        <iframe src="https://www.youtube.com/embed/4uoptCUx9Mg?controls=0&fs=0&modestbranding=1&origin=https://skrzypczyk.github.io" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+      <iframe class="chat" src="https://www.youtube.com/live_chat?v=4uoptCUx9Mg&embed_domain=skrzypczyk.github.io" title="YouTube video chat" frameborder="0" allow="clipboard-write;" allowfullscreen></iframe>
+    </div>
   </body>
 </html>
