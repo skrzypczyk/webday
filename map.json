@@ -247,7 +247,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/stage1.json#startRight"
+                 "value":"\/@\/esgi-webday\/web-day\/webday-stage1#startRight"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -265,7 +265,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/stage1.json#startLeft"
+                 "value":"\/@\/esgi-webday\/web-day\/webday-stage1#startLeft"
                 }],
          "type":"tilelayer",
          "visible":false,
