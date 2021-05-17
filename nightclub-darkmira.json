@@ -3,7 +3,7 @@
     {
      "export":
         {
-         "target":"..\/dmtphp20-maps"
+         "target":"."
         }
     },
  "height":80,
@@ -286,7 +286,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"..\/dmtphp20-maps\/tilesets_deviant_milkian_1.png",
+         "image":"tilesets_deviant_milkian_1.png",
          "imageheight":544,
          "imagewidth":544,
          "margin":1,
@@ -1137,7 +1137,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"..\/dmtphp20-maps\/floortileset.png",
+         "image":"floortileset.png",
          "imageheight":272,
          "imagewidth":272,
          "margin":1,
@@ -1160,7 +1160,7 @@
         {
          "columns":8,
          "firstgid":321,
-         "image":"..\/dmtphp20-maps\/tilesets\/fantasy.png",
+         "image":"fantasy.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -6909,7 +6909,7 @@
         {
          "columns":64,
          "firstgid":1385,
-         "image":"..\/dmtphp20-maps\/tilesets\/water.png",
+         "image":"water.png",
          "imageheight":384,
          "imagewidth":2048,
          "margin":0,
@@ -20747,7 +20747,7 @@
         {
          "columns":11,
          "firstgid":4425,
-         "image":"..\/dmtphp20-maps\/tilesets\/tables.png",
+         "image":"tables.png",
          "imageheight":208,
          "imagewidth":352,
          "margin":0,
@@ -20760,7 +20760,7 @@
         {
          "columns":16,
          "firstgid":4491,
-         "image":"..\/dmtphp20-maps\/tilesets\/general.png",
+         "image":"general.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -20810,7 +20810,7 @@
         {
          "columns":16,
          "firstgid":4747,
-         "image":"..\/dmtphp20-maps\/tilesets\/cakes.png",
+         "image":"cakes.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -20823,7 +20823,7 @@
         {
          "columns":16,
          "firstgid":5003,
-         "image":"..\/dmtphp20-maps\/tilesets\/balloon.png",
+         "image":"balloon.png",
          "imageheight":480,
          "imagewidth":528,
          "margin":0,
@@ -20846,7 +20846,7 @@
         {
          "columns":8,
          "firstgid":5243,
-         "image":"..\/dmtphp20-maps\/tilesets\/carpet-34x34.png",
+         "image":"carpet-34x34.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -20881,7 +20881,7 @@
         {
          "columns":28,
          "firstgid":5307,
-         "image":"..\/dmtphp20-maps\/tilesets\/bar.png",
+         "image":"bar.png",
          "imageheight":912,
          "imagewidth":912,
          "margin":0,
@@ -27951,7 +27951,7 @@
         {
          "columns":16,
          "firstgid":6091,
-         "image":"..\/dmtphp20-maps\/tilesets\/gallery_2908_197_170327.png",
+         "image":"gallery_2908_197_170327.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -29792,7 +29792,7 @@
         {
          "columns":8,
          "firstgid":6347,
-         "image":"..\/dmtphp20-maps\/tilesets\/floor-disco.png",
+         "image":"floor-disco.png",
          "imageheight":128,
          "imagewidth":256,
          "margin":0,
@@ -29805,7 +29805,7 @@
         {
          "columns":15,
          "firstgid":6379,
-         "image":"..\/dmtphp20-maps\/tilesets\/saojoao.png",
+         "image":"saojoao.png",
          "imageheight":500,
          "imagewidth":500,
          "margin":0,
@@ -29818,7 +29818,7 @@
         {
          "columns":12,
          "firstgid":6604,
-         "image":"tilesets\/banners_sponsor-community.png",
+         "image":"banners_sponsor-community.png",
          "imageheight":1000,
          "imagewidth":384,
          "margin":0,

@@ -1108,7 +1108,7 @@
         {
          "columns":8,
          "firstgid":1425,
-         "image":"..\/dmtphp20-maps\/tilesets\/floor-disco.png",
+         "image":"floor-disco.png",
          "imageheight":128,
          "imagewidth":256,
          "margin":0,
@@ -1121,7 +1121,7 @@
         {
          "columns":16,
          "firstgid":1457,
-         "image":"..\/dmtphp20-maps\/tilesets\/gallery_2908_197_170327.png",
+         "image":"gallery_2908_197_170327.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -2260,7 +2260,7 @@
         {
          "columns":12,
          "firstgid":1713,
-         "image":"tilesets\/banners_sponsor-community.png",
+         "image":"banners_sponsor-community.png",
          "imageheight":1000,
          "imagewidth":384,
          "margin":0,
@@ -2395,7 +2395,7 @@
         {
          "columns":8,
          "firstgid":3149,
-         "image":"..\/dmtphp20-maps\/tilesets\/carpet-34x34.png",
+         "image":"carpet-34x34.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -2408,7 +2408,7 @@
         {
          "columns":12,
          "firstgid":3213,
-         "image":"tilesets\/banners_sponsor-community.png",
+         "image":"banners_sponsor-community.png",
          "imageheight":1000,
          "imagewidth":384,
          "margin":0,
