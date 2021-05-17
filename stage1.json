@@ -564,7 +564,7 @@
         {
          "columns":12,
          "firstgid":1425,
-         "image":"tilesets\/banners_sponsor-community.png",
+         "image":"banners_sponsor-community.png",
          "imageheight":1000,
          "imagewidth":384,
          "margin":0,
