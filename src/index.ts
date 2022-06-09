@@ -2,7 +2,7 @@
 
 // You can write your WorkAdventure script here, if any.
 // The "WA" global object is available from anywhere.
-import { } from "https://unpkg.com/@workadventure/scripting-api-extra@^1";
+//import { } from "https://unpkg.com/@workadventure/scripting-api-extra@^1";
 
 
 
