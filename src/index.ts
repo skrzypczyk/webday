@@ -72,10 +72,10 @@ WA.onInit().then(() => {
 
 
     WA.room.onEnterLayer('enigme6').subscribe(() => {
-        let text = "Vous roulez en voiture par une nuit de tempête quand vous apercevez trois personnes en détresse sous un Abribus. Vous vous arrêtez et vous voyez : une femme qui pourrait être la femme de votre vie, le médecin qui a sauvé la vie de votre mère et une vieille dame qui doit être conduite d'urgence à l'hôpital. Mais, il n'y a qu'une place dans votre voiture. Qui emmenez-vous ?\n\n"
-			text +=	"Femme de votre vie\n";
-			text +=	"Medecin\n";
-			text +=	"Vieille dame\n";
+        let text = "Soit la suite logique suivante : 4, 6, 15, 105, .... Quel sera le nombre suivant ?\n\n"
+			text +=	"5460\n";
+			text +=	"201\n";
+			text +=	"3124\n";
         currentPopup = WA.ui.openPopup("enigme3Popup",text,[]);
     })
 
