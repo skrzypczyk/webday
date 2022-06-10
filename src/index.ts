@@ -97,6 +97,15 @@ WA.onInit()
 
     WA.room.onLeaveLayer("enigme7").subscribe(closePopUp);
 
+
+    WA.room.onEnterLayer("enigme8").subscribe(() => {
+      let text ="Vous connaissez Squid Game ?\n Bon courage.\n";
+
+      currentPopup = WA.ui.openPopup("enigme2Popup", text, []);
+    });
+
+    WA.room.onLeaveLayer("enigme8").subscribe(closePopUp);
+
     WA.room.onEnterLayer("lastEnigmeAnnonce").subscribe(() => {
       let text =
         "Que vaut la somme des positions de toutes les portes valides ?";
