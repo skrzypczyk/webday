@@ -1438,6 +1438,12 @@
          "id":30,
          "name":"MiniChallenge",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"\/@\/esgi-webday\/web-day\/challenge"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
